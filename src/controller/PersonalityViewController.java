@@ -9,6 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import service.PersonalityCalculator;
+
 
 // Do not edit or modify this class unless required.
 // This file acts as a controller class
